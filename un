@@ -1,9 +1,0 @@
-# Boas praticas - Merge / Rebase
-
-> Está atualizando sua branch pegando as coisas dos master? 
-
-USE REBASE (PULL --REBASE)
-
-> Terminou sua feature no branch e quer jogar para o master?
-
-USE MERGE
